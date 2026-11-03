@@ -7,6 +7,13 @@ and backs everything up to your Google Drive.
 It is built with Next.js, TypeScript and PostgreSQL, and runs on free tiers of [Vercel](https://vercel.com) and
 [Neon](https://neon.tech). Amounts are in PKR and dates follow Asia/Karachi time.
 
+## Demo
+
+[![Watch the Pocketbook demo on YouTube](https://img.youtube.com/vi/weXrRebp6fM/maxresdefault.jpg)](https://www.youtube.com/watch?v=weXrRebp6fM)
+
+**[Watch the demo on YouTube](https://www.youtube.com/watch?v=weXrRebp6fM)**: bank alerts arriving on an iPhone, the Shortcuts setup,
+the review inbox, the dashboard and set-asides, all with made-up demo data.
+
 ## Features
 
 - **Automatic SMS import.** An iPhone Shortcuts automation forwards each bank alert to Pocketbook, which reads the amount,
